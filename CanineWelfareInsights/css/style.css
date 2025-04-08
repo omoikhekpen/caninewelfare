@@ -1,0 +1,155 @@
+/* Base Styles */
+body {
+    background-color: #ffe6f0; /* Light pink background */
+    color: #4d2c1f;            /* Dark brown text */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* Header and Footer Styling */
+header, footer {
+    background-color: #f7c6aa; /* Soft pinkish-brown for header and footer */
+    padding: 15px 0;
+}
+
+/* Navbar Styling */
+.navbar-brand, .nav-link {
+    color: #4d2c1f !important;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    color: #a0522d !important; /* Change color on hover */
+}
+
+/* Container */
+.container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #4d2c1f;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 2.5em;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h2 {
+    font-size: 2em;
+    border-bottom: 2px solid #a0522d;
+    padding-bottom: 5px;
+}
+
+/* Paragraphs and Lists */
+p {
+    font-size: 1.1em;
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+ul, ol {
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* Section Styling */
+section {
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: #fff5fa; /* Slightly lighter pink for content sections */
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Center images by default */
+}
+
+/* Buttons */
+.btn-custom {
+    background-color: #a0522d;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn-custom:hover {
+    background-color: #8b4513;
+}
+
+/* Footer Specific Styling */
+footer p {
+    margin: 0;
+    font-size: 0.9em;
+}
+
+/* Form Elements (if any are added later) */
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 15px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 1em;
+}
+
+input[type="submit"] {
+    background-color: #a0522d;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    font-size: 1em;
+}
+
+input[type="submit"]:hover {
+    background-color: #8b4513;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2em;
+    }
+    h2 {
+        font-size: 1.75em;
+    }
+    .container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
+
+/* Custom Utility Classes */
+.text-center {
+    text-align: center;
+}
+
+.my-5 {
+    margin-top: 3rem !important;
+    margin-bottom: 3rem !important;
+}
