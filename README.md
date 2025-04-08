@@ -5,13 +5,13 @@ Canine Welfare Insights is a website I created to share important information ab
 ## What the Project Is About
 
 - **Purpose:**  
-  The website aims to help dog owners, shelter workers, and animal lovers learn more about canine welfare, so every dog gets the care it deserves.
+  The website aims to help dog owners, shelter workers, and animal lovers learn more about canine welfare so that every dog gets the care it deserves.
 
 - **Key Sections:**  
   - **Overview:** Explains what canine welfare means, including concepts like the Five Freedoms.  
   - **Welfare Issues & Case Studies:** Discusses challenges such as stress, aggression, and the importance of proper training.  
   - **Resources & Further Reading:** Provides a list of articles and guides to learn more about dog care.  
-  - **Contact & About:** Shares a bit about me and why I created this project, plus ways to get in touch.
+  - **Contact & About:** Shares a bit about me, why I created this project, and how to get in touch.
 
 - **Design Theme:**  
   The website features a friendly pink and brown color theme with helpful images (including one from Pixabay) and easy-to-read content.
@@ -19,10 +19,12 @@ Canine Welfare Insights is a website I created to share important information ab
 ## Deployment
 
 You can view the live version of this website here:  
-
+https://caninewelfare.netlify.app/
 
 ## About Me
 
-My name is Efe Ivagba. This project is part of my studies for ANSC 3005. I created Canine Welfare Insights out of my passion for improving the lives of dogs and sharing helpful, science-based information about dog care.
+My name is **Efe Ivagba**. This project is part of my studies for ANSC 3005. I created Canine Welfare Insights out of my passion for improving the lives of dogs and sharing helpful, science-based information about dog care.
+
+If you have any questions or need more information, feel free to contact me at **om754768@dal.ca**.
 
 Thank you for visiting Canine Welfare Insights. I hope this resource helps you learn more about canine welfare and inspires you to care for dogs with kindness and understanding!
